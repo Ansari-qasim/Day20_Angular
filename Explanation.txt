@@ -1,0 +1,33 @@
+What is Angular?
+Angular is a TypeScript-based open-source front-end web application framework developed by Google. It is used to build single-page applications (SPAs) with a focus on scalability, testability, and maintainability.
+
+Key Features of Angular:
+
+Component-based architecture
+
+Two-way data binding
+
+Dependency Injection
+
+Directives and Pipes
+
+Powerful CLI support
+
+RxJS for reactive programming
+
+Modular development and routing
+
+
+Difference Between Angular and React:
+
+Angular is a complete framework developed by Google, whereas React is a JavaScript library created by Facebook. Angular is built using TypeScript, which provides static typing and object-oriented features, while React typically uses JavaScript with JSX.
+
+Angular uses a two-way data binding approach, meaning changes in the UI update the model and vice versa. React, on the other hand, uses one-way data binding, where the data flows in a single direction, making the data flow more predictable.
+
+In terms of architecture, Angular follows a component-based architecture but also incorporates MVC/MVVM principles, offering a more structured framework. React focuses only on the view layer, and developers need to use other libraries for state management and routing.
+
+Angular comes with a powerful built-in CLI (Command Line Interface) that helps in generating components, services, and setting up the project easily. React has tools like Create React App (CRA), which are useful but not as comprehensive as Angular CLI.
+
+The learning curve for Angular is steeper due to its extensive features and strict structure, while React is considered easier to learn for beginners, especially those already familiar with JavaScript.
+
+Lastly, Angular provides everything out of the box (routing, HTTP client, forms, etc.), whereas in React, you often need to integrate third-party libraries to add such features.
